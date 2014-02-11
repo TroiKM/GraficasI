@@ -1,0 +1,13 @@
+material shBordeInfL_01
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.692851 0.692851 0.692851 1
+			diffuse 0.400706 0.481353 0.562 1
+		}
+
+	}
+
+}

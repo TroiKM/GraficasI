@@ -1,0 +1,26 @@
+﻿Compilación iniciada a las 30/01/2014 10:44:15 p.m..
+     1>Proyecto "C:\Users\Karen Troiano\Desktop\OgreProyectoFinal01\OgreProyectoFinal01\OgreProyectoFinal01.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "obj\Debug\OgreProyectoFinal01.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         Todas las salidas están actualizadas.
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+       Manifest:
+         Todas las salidas están actualizadas.
+       PostBuildEvent:
+         Description: Copying exe to samples bin directory ...
+         copy "bin\Debug\\OgreProyectoFinal01.exe" "C:\OgreSDK_vc10_v1-8-1\Bin\Debug"
+         :VCEnd
+                 1 archivo(s) copiado(s).
+       FinalizeBuildStatus:
+         Se eliminará el archivo "obj\Debug\OgreProyectoFinal01.unsuccessfulbuild".
+         Aplicando tarea Touch a "obj\Debug\OgreProyectoFinal01.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Karen Troiano\Desktop\OgreProyectoFinal01\OgreProyectoFinal01\OgreProyectoFinal01.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.82

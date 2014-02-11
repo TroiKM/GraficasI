@@ -1,0 +1,13 @@
+material shBase01
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.256977 0.91429 0.267826 1
+			diffuse 0.364279 0.364279 0.364279 1
+		}
+
+	}
+
+}
